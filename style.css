@@ -1,0 +1,49 @@
+body{
+    /* background-color: rgb(175, 57, 57); */
+    background-image:   url("https://t4.ftcdn.net/jpg/02/01/04/43/360_F_201044340_fj5OD23IiUcNr4GHezACdf4v4QrfSVXy.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.sub{
+    font-size: x-small;
+}
+
+.main{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: larger;
+    background-attachment: fixed;
+}
+
+.h1{
+    padding: 5px;
+     border: 1px solid black;
+    border-radius: 10px; 
+
+
+}
+
+.h{
+    display: flex;
+}
+
+.btn{
+    display: flex;
+    padding: 5x 20px;
+    
+}
+
+.btn1{
+    padding: px 3px;
+    background-color:black;
+    color: rgb(241, 152, 42);
+    width: 68px;
+    height: 35px;
+    font-size: large;
+}
